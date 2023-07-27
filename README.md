@@ -9,6 +9,8 @@
 
 [GitEmulationJS](https://github.com/dattgoswami/GitEmulationJS)
 
+[CuilinaryCodexAPI](https://github.com/dattgoswami/CulinaryCodexAPI)
+
 ## Looking into these
 [autodoc](https://github.com/dattgoswami/autodoc)
 
