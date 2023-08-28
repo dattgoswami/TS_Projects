@@ -1,12 +1,8 @@
 # Typescript Projects 
 
-[My-Blog-Next](https://github.com/dattgoswami/my-blog-next)
+[Book API - Express, Fastify, Hapi, Koa Versions](https://github.com/dattgoswami/book-api-ts)
 
-[My-Blog-React-Native](https://github.com/dattgoswami/my-blog-react-native)
-
-[My-Blog-Nuxt](https://github.com/dattgoswami/my-blog-nuxt)
-
-[My-Blog-Vue](https://github.com/dattgoswami/my-blog-vue)
+[Blog Fetcher Sorter - Next, React Native, Nuxt, Vue Versions](https://github.com/dattgoswami/blog-fetcher-sorter)
 
 [Full Stack Javascript Developer ](https://github.com/dattgoswami/Full_Stack_Javascript_Developer) 
 
