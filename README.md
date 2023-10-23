@@ -1,6 +1,6 @@
 # Typescript Projects 
 
-[Data Dashboard Frontend - React MUI](https://github.com/dattgoswami/postal-code-dashboard)
+[Data Dashboard Frontend - React (MUI)](https://github.com/dattgoswami/postal-code-dashboard)
 
 [Book API - Express, Fastify, Hapi, Koa Versions](https://github.com/dattgoswami/book-api-ts)
 
